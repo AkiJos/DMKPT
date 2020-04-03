@@ -7,7 +7,7 @@ Steps to mimic malicious kernel process:
 Type these things in terminal 
 
 #export PATH=.:$PATH<br />
-#cp /bin/yes /tmp/[AJ]<br />
+#cp /usr/bin/yes /tmp/[AJ]<br />
 #cd /tmp<br />
 #"[AJ]"<br />
 
