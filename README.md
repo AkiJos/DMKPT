@@ -15,6 +15,9 @@ And atlast run the DMKPT.py file
 
 *Yes is a utility which output's a string repeatedly until killed, Look for man page of yes.<br />
 **Make sure you run this with root user<br />
+
+NOTE: The scripts only identifies malicious process which masquerades as a kernenel process thread.
+
 This is how the output looks like:
 
 ![Screenshot of the output](https://github.com/AkiJos/DMKPT/blob/master/DMKPT.png)
